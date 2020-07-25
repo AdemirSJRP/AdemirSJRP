@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ademir Rodrigues da Silva - Desenvolvedor FullStack
 
 <!--
 **AdemirSJRP/AdemirSJRP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Desenvolvedor FrontEnd Angular
+- Desenvolvedor BackEnd .NET Core (WebApi, Desktop, Azure Functions, SignalR)
+- SqlServer

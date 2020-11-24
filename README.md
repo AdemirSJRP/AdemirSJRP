@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there! 😁
 
-Meu nome é Ademir Rodrigues da Silva, tenho 47 anos e sou desenvolvedor há mais de 25 anos. Conheci a programação desde a épode de Basic, Dbase, Clipper, Fox-Pro, FiveWin, Visual Basic, etc.
+Meu nome é Ademir Rodrigues da Silva, tenho 47 anos e sou desenvolvedor há mais de 25 anos. Conheci a programação desde a época do Basic, Dbase, Clipper, Fox-Pro, FiveWin, Visual Basic, etc.
 
 No momento trabalho em uma empresa de consultoria tributária e recuperação de créditos de ICMS, onde sou gestor da equipe de desenvolvimento.
 

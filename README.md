@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 ### Hi there! 😁
 
-Meu nome é Ademir Rodrigues da Silva, tenho 47 anos e sou desenvolvedor há mais de 25 anos. Conheci a programação desde a época do Basic, Dbase, Clipper, Fox-Pro, FiveWin, Visual Basic, etc.
+Meu nome é Ademir Rodrigues da Silva, tenho 48 anos e sou desenvolvedor há mais de 25 anos. Conheci a programação desde a época do Basic, Dbase, Clipper, Fox-Pro, FiveWin, Visual Basic, etc.
 
-No momento trabalho em uma empresa de consultoria tributária e recuperação de créditos de ICMS, onde sou gestor da equipe de desenvolvimento.
+Atualmente faço parte da grande família da Avanade, sendo contratato após participar da primeira Aceleração Global Dev Avanade realizada em parceria com a Digital Innovation One.
+Nessa empresa extraordinária percebi a chance de alavancar minha carreira participando de grandes projetos, obter certificações e contribuir para gerar cada vez mais valor tanto para os clientes quanto para minha equipe e toda a comunidade em geral.
 
-Minha equipe desenvolveu todos os sistemas utilizados pela empresa para para efetuar as operações de importação, auditoria e cálculo do crédito de ICMS dos clientes.
+
+Já trabalhei também em projetos de consultoria tributária e recuperação de créditos de ICMS, desenvolvendo sistemas semi-distribuidos para efetuar as operações de importação, auditoria e cálculo do crédito de ICMS para empresas (Ecredac) e produtores rurais (Ecred-Rural).
 
 
 Tenho 3 filhos e uma esposa maravilhosa. Quando não estou codando gosto de ⚽️  🍺  🎵 🎞️ 📺 ...
@@ -30,6 +32,7 @@ Hoje minhas competências são:
 
 - Desenvolvedor FrontEnd Angular
 - Desenvolvedor BackEnd .NET Core (WebApi, Desktop, Azure Functions, SignalR)
+- Desenvolvedor BackEnd NodeJS / Nest.JS
 - SqlServer
 - DevOps
 
@@ -38,7 +41,6 @@ Em estudo:
 - FullCycle Development 
 - React
 - MongoDb
-- Node.JS
 - Rabbit MQ
 
 
